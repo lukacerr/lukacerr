@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello world 👋
 
-<!--
-**lukacerr/lukacerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Luka Cerrutti** (he/him), a _19 years old_ argentinian 🇦🇷 full-stack developer (JS/TS lover), designer (mainly UX/UI & brand thinking) and computer science student.
 
-Here are some ideas to get you started:
+##### ✨ Feel free to hit me up for whatever you need. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Contact me 💬
+
+- Stackoverflow: https://stackoverflow.com/users/18312347/
+- Linkedin: https://www.linkedin.com/in/lce/
+- Contact mail: [lukacerrutti2002@gmail.com](mailto:lukacerrutti2002@gmail.com)
+- Instagram: [@lukacerr](https://www.instagram.com/lukacerr/)
+- And you already found me on GitHub ❤️
