@@ -11,5 +11,5 @@ I'm **Luka Cerrutti** (he/him), a _19 years old_ argentinian 🇦🇷 full-stack
 - Stackoverflow: https://stackoverflow.com/users/18312347/
 - Linkedin: https://www.linkedin.com/in/lce/
 - Contact mail: [lukacerrutti2002@gmail.com](mailto:lukacerrutti2002@gmail.com)
-- Instagram: [@lukacerr](https://www.instagram.com/lukacerr/)
+- Instagram: [@lukacerr](https://www.instagram.com/lukacerr/){:target="_blank"}
 - And you already found me on GitHub ❤️
