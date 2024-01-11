@@ -1,6 +1,6 @@
 # Hello world 👋
 
-I'm **Luka Cerrutti** (he/him), a _20 years old_ argentinian 🇦🇷 full-stack developer (JS/TS & node lover), designer (mainly UX/UI & brand thinking) and a third year computer science student at UADE.
+I'm **Luka Cerrutti** (he/him), a _21 years old_ argentinian 🇦🇷 full-stack developer (JS/TS & node lover), designer (mainly UX/UI & brand thinking) and a third year computer science student at UADE.
 
 #### ✨ Feel free to hit me up for whatever you need. ✨
 
